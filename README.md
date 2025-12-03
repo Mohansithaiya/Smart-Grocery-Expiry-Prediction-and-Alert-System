@@ -1,4 +1,4 @@
-# 🛒 Enhanced Grocery Expiry Prediction System - Complete Project Prompt
+# 🛒 Smart Grocery Expiry Prediction and Alert-System
 
 ## 🎯 Project Overview
 
